@@ -1,0 +1,16 @@
+1.
+a.Easier access to debuggers through a new breakpoint()built -in.
+b.Simple class creation using data classes.
+c.Customized access to module attributes.
+d.Improved support for type hinting.
+e.Higher precision timing functions.
+2.
+Changing a method at runtime instead of updating the object definition.
+3.
+In shallow copy,only fields of primitive data type are copied while the objects reference are copied.
+In Deep copy , involves the copy of primitive data type as wellas object references.
+4.
+Identifiers can be combination of letters,numbers,special symbols,etc.Hence ,the maximum possible length of an identifier
+is 31 characters.
+5.
+A generator comprehension is a single -line specification for defining a generstor in Python.
